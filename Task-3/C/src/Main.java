@@ -18,7 +18,6 @@ public class Main {
 		int N = Integer.parseInt(first[0]);
 		int M = Integer.parseInt(first[1]);
 		int K = Integer.parseInt(first[2]);
-		*/
 		int[] heads = new int[N];
 		int[] bodies = new int[M];
 		
